@@ -1,0 +1,37 @@
+/*============ GOOOGLE FONTS ==============*/
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,300;0,400;0,600;1,700&display=swap');
+
+/*======== VARIABLE CSS =========*/ 
+:root {
+--header-height: 3.5rem;
+
+    /*==== COLORS ======*/
+--first-hue: 250;
+--sat: 66%;
+--lig: 75%;
+--second-hue: 219;
+
+--first-color: hsl(
+    var(--first-hue),
+    var(--sat), 
+    var(--lig));
+
+--first-color-alt: hsl(
+    var(--first-hue), 
+    var(--sat), 
+    71%);
+
+--title-color: hsl(
+    var(--second-hue), 
+    15%, 
+    95%);
+
+--text-color: ;
+--text-color-light: ;
+--body-color: ;
+--container-color: ;
+
+     /*===== FONT AND TYPOGRAPHY ========*/
+--body-font: ;
+--biggest-font-size: ;
+}
